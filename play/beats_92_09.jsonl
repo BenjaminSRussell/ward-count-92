@@ -480,3 +480,6 @@
 {"n":480,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Kessler alley. Nobody past the west stair. We hit in 3 steps. Arc on the left lane, open."}
 {"n":481,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley west stair. Nia keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
 {"n":482,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west stair. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":483,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Kessler alley. Nobody past the west stair. We hit in 6 steps. Arc on the left lane, open."}
+{"n":484,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley west stair. Ivo keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":485,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west stair. arc left open. 8 steps. The hydrant stays for the hit."}
