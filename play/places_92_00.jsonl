@@ -782,3 +782,6 @@
 {"n":782,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south dock. arc left open. 6 steps. The drum stays for the hit."}
 {"n":783,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mall court. Nobody past the south dock. We hit in 7 steps. Arc on the left lane, open."}
 {"n":784,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court south dock. Ivo keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":785,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south dock. arc left open. 2 steps. The drum stays for the hit."}
+{"n":786,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mall court. Nobody past the south dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":787,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court south dock. Bess keeps the drum for the hit. 4 steps, arc on the left lane, open."}
