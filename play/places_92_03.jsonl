@@ -392,3 +392,6 @@
 {"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east gutter. arc left open. 5 steps. The plywood stays for the hit."}
 {"n":393,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Drydock. Nobody past the east gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":394,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east gutter. Matt keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":395,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east gutter. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Drydock. Nobody past the east gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":397,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east gutter. Nia keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
