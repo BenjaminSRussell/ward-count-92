@@ -583,3 +583,6 @@
 {"n":583,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south dock. Bess keeps the awning for the hit. 3 steps, arc on the left lane, open."}
 {"n":584,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south dock. arc left open. 4 steps. The awning stays for the hit."}
 {"n":585,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Lot. Nobody past the south dock. We hit in 5 steps. Arc on the left lane, open."}
+{"n":586,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot south dock. Matt keeps the awning for the hit. 6 steps, arc on the left lane, open."}
+{"n":587,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south dock. arc left open. 7 steps. The awning stays for the hit."}
+{"n":588,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the Lot. Nobody past the south dock. We hit in 8 steps. Arc on the left lane, open."}
