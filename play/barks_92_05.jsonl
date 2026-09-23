@@ -302,3 +302,6 @@
 {"n":302,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north gutter. Matt keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
 {"n":303,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north gutter. arc left open. 5 steps. The plywood stays for the hit."}
 {"n":304,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the north gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":305,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north gutter. Nia keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":306,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north gutter. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":307,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Stockyard fence. Nobody past the north gutter. We hit in 2 steps. Arc on the left lane, open."}
