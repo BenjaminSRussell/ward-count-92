@@ -439,3 +439,6 @@
 {"n":439,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west gutter. arc left open. 5 steps. The hydrant stays for the hit."}
 {"n":440,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Stockyard fence. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":441,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence west gutter. Nia keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":442,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west gutter. arc left open. 8 steps. The hydrant stays for the hit."}
+{"n":443,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Stockyard fence. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":444,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence west gutter. Ivo keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
