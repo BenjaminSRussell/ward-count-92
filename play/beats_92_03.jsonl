@@ -114,3 +114,6 @@
 {"n":114,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at the Lot. Nobody past the west gutter. We hit in 7 steps. Arc on the left lane, open."}
 {"n":115,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west gutter. Bess keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
 {"n":116,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west gutter. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":117,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":118,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence west gutter. Matt keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
+{"n":119,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west gutter. arc left open. 5 steps. The radio coil stays for the hit."}
