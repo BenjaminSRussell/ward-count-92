@@ -606,3 +606,6 @@
 {"n":606,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west gutter. Matt keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":607,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west gutter. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":608,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":609,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence west gutter. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":610,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west gutter. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":611,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
