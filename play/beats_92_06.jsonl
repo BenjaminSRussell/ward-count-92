@@ -951,3 +951,6 @@
 {"n":951,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Ward gate. Nobody past the north gutter. We hit in 8 steps. Arc on the left lane, open."}
 {"n":952,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate north gutter. Ivo keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
 {"n":953,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north gutter. arc left open. 3 steps. The badge door stays for the hit."}
+{"n":954,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Ward gate. Nobody past the north gutter. We hit in 4 steps. Arc on the left lane, open."}
+{"n":955,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate north gutter. Bess keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
+{"n":956,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north gutter. arc left open. 6 steps. The badge door stays for the hit."}
