@@ -559,3 +559,6 @@
 {"n":559,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south dock. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":560,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south dock. arc left open. 8 steps. The shutter stays for the hit."}
 {"n":561,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Ward gate. Nobody past the south dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":562,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south dock. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":563,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south dock. arc left open. 4 steps. The awning stays for the hit."}
+{"n":564,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Ward gate. Nobody past the south dock. We hit in 5 steps. Arc on the left lane, open."}
