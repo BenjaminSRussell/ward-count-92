@@ -667,3 +667,6 @@
 {"n":667,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east gutter. arc left open. 6 steps. The awning stays for the hit."}
 {"n":668,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Mast yard. Nobody past the east gutter. We hit in 7 steps. Arc on the left lane, open."}
 {"n":669,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard east gutter. Nia keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":670,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east gutter. arc left open. 2 steps. The awning stays for the hit."}
+{"n":671,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Mast yard. Nobody past the east gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":672,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard east gutter. Ivo keeps the awning for the hit. 4 steps, arc on the left lane, open."}
