@@ -55,3 +55,6 @@
 {"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east gutter. arc left open. 3 steps. The lamp stays for the hit."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Switchyard. Nobody past the east gutter. We hit in 4 steps. Arc on the left lane, open."}
 {"n":57,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east gutter. Nia keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
+{"n":58,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east gutter. arc left open. 6 steps. The lamp stays for the hit."}
+{"n":59,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Switchyard. Nobody past the east gutter. We hit in 7 steps. Arc on the left lane, open."}
+{"n":60,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east gutter. Ivo keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
