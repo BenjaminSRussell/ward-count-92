@@ -676,3 +676,6 @@
 {"n":676,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at South stair. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":677,"kind":"place","name":"South stair west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair west gutter. Nia keeps the awning for the hit. 4 steps, arc on the left lane, open."}
 {"n":678,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west gutter. arc left open. 5 steps. The awning stays for the hit."}
+{"n":679,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at South stair. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":680,"kind":"place","name":"South stair west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair west gutter. Ivo keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west gutter. arc left open. 8 steps. The awning stays for the hit."}
