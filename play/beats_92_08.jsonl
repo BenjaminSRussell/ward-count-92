@@ -604,3 +604,6 @@
 {"n":604,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Drydock. Nobody past the south gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":605,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south gutter. Nia keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south gutter. arc left open. 4 steps. The shutter stays for the hit."}
+{"n":607,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Drydock. Nobody past the south gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":608,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south gutter. Ivo keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":609,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south gutter. arc left open. 7 steps. The shutter stays for the hit."}
