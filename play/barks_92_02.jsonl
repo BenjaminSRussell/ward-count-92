@@ -821,3 +821,6 @@
 {"n":821,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard west gutter. Nia keeps the drum for the hit. 8 steps, arc on the left lane, open."}
 {"n":822,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west gutter. arc left open. 2 steps. The drum stays for the hit."}
 {"n":823,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mast yard. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":824,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard west gutter. Ivo keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":825,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west gutter. arc left open. 5 steps. The drum stays for the hit."}
+{"n":826,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mast yard. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
