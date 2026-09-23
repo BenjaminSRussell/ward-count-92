@@ -53,3 +53,6 @@
 {"n":53,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south dock. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":54,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at High line. Nobody past the south dock. We hit in 6 steps. Arc on the left lane, open."}
 {"n":55,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south dock. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":56,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south dock. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":57,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Ward gate. Nobody past the south dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":58,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south dock. Matt keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
