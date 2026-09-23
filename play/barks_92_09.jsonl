@@ -616,3 +616,6 @@
 {"n":616,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west stair. Ivo keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
 {"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west stair. arc left open. 7 steps. The hydrant stays for the hit."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Drydock. Nobody past the west stair. We hit in 8 steps. Arc on the left lane, open."}
+{"n":619,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west stair. Bess keeps the hydrant for the hit. 2 steps, arc on the left lane, open."}
+{"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west stair. arc left open. 3 steps. The hydrant stays for the hit."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at High line. Nobody past the west stair. We hit in 4 steps. Arc on the left lane, open."}
