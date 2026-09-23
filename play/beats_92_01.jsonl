@@ -647,3 +647,6 @@
 {"n":647,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Mast yard. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":648,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard west gutter. Ivo keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":649,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west gutter. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Mast yard. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":651,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":652,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. arc left open. 8 steps. The barrel stays for the hit."}
