@@ -621,3 +621,6 @@
 {"n":621,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south gutter. arc left open. 5 steps. The shutter stays for the hit."}
 {"n":622,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at High line. Nobody past the south gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":623,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south gutter. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":624,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south gutter. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":625,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Ward gate. Nobody past the south gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":626,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south gutter. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
