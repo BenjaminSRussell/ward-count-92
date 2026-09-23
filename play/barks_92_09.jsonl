@@ -37,3 +37,6 @@
 {"n":37,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard south gutter. Nia keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
 {"n":38,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south gutter. arc left open. 2 steps. The badge door stays for the hit."}
 {"n":39,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Mast yard. Nobody past the south gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":40,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard south gutter. Ivo keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
+{"n":41,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south gutter. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":42,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Mast yard. Nobody past the south gutter. We hit in 6 steps. Arc on the left lane, open."}
