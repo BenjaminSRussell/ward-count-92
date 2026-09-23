@@ -163,3 +163,6 @@
 {"n":163,"kind":"place","name":"Mall court north gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court north gutter. Bess keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
 {"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north gutter. arc left open. 5 steps. The rebar stays for the hit."}
 {"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at the Underpass. Nobody past the north gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":166,"kind":"place","name":"the Underpass north gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass north gutter. Matt keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":167,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north gutter. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":168,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at the Underpass. Nobody past the north gutter. We hit in 2 steps. Arc on the left lane, open."}
