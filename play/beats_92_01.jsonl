@@ -101,3 +101,6 @@
 {"n":101,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the south dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":102,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence south dock. Matt keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":103,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south dock. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":104,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the south dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":105,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south dock. Nia keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":106,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south dock. arc left open. 8 steps. The radio coil stays for the hit."}
