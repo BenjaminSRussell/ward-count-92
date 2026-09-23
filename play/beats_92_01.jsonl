@@ -152,3 +152,6 @@
 {"n":152,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Last Light. Nobody past the south dock. We hit in 5 steps. Arc on the left lane, open."}
 {"n":153,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light south dock. Nia keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
 {"n":154,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south dock. arc left open. 7 steps. The radio coil stays for the hit."}
+{"n":155,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Last Light. Nobody past the south dock. We hit in 8 steps. Arc on the left lane, open."}
+{"n":156,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light south dock. Ivo keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
+{"n":157,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south dock. arc left open. 3 steps. The radio coil stays for the hit."}
