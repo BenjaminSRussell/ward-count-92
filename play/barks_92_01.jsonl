@@ -669,3 +669,6 @@
 {"n":669,"kind":"place","name":"South stair west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair west gutter. Nia keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":670,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west gutter. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":671,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at South stair. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":672,"kind":"place","name":"South stair west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair west gutter. Ivo keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":673,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west gutter. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":674,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at South stair. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
