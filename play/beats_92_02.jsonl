@@ -151,3 +151,6 @@
 {"n":151,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Mast yard. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":152,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard west gutter. Ivo keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
 {"n":153,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west gutter. arc left open. 5 steps. The rebar stays for the hit."}
+{"n":154,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Mast yard. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":155,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":156,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. arc left open. 8 steps. The rebar stays for the hit."}
