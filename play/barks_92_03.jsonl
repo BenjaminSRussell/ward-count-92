@@ -370,3 +370,6 @@
 {"n":370,"kind":"place","name":"Clinic roof east gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof east gutter. Matt keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
 {"n":371,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east gutter. arc left open. 5 steps. The plywood stays for the hit."}
 {"n":372,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Clinic roof. Nobody past the east gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":373,"kind":"place","name":"Clinic roof east gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof east gutter. Nia keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":374,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east gutter. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":375,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Clinic roof. Nobody past the east gutter. We hit in 2 steps. Arc on the left lane, open."}
