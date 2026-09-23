@@ -747,3 +747,6 @@
 {"n":747,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north gutter. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":748,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Drydock. Nobody past the north gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":749,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north gutter. Nia keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":750,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north gutter. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":751,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Drydock. Nobody past the north gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":752,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north gutter. Ivo keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
