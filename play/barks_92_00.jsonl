@@ -139,3 +139,6 @@
 {"n":139,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south dock. Bess keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":140,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south dock. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":141,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Last Light. Nobody past the south dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":142,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light south dock. Matt keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":143,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south dock. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Last Light. Nobody past the south dock. We hit in 5 steps. Arc on the left lane, open."}
