@@ -525,3 +525,6 @@
 {"n":525,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Switchyard. Nobody past the south dock. We hit in 8 steps. Arc on the left lane, open."}
 {"n":526,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard south dock. Matt keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
 {"n":527,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south dock. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":528,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Switchyard. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":529,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard south dock. Nia keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":530,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south dock. arc left open. 6 steps. The shutter stays for the hit."}
