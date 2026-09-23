@@ -699,3 +699,6 @@
 {"n":699,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west gutter. arc left open. 5 steps. The awning stays for the hit."}
 {"n":700,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Clinic roof. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":701,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Clinic roof west gutter. Nia keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":702,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west gutter. arc left open. 8 steps. The awning stays for the hit."}
+{"n":703,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Clinic roof. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":704,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof west gutter. Ivo keeps the awning for the hit. 3 steps, arc on the left lane, open."}
