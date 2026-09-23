@@ -337,3 +337,6 @@
 {"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east gutter. arc left open. 5 steps. The rope stays for the hit."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mast yard. Nobody past the east gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":339,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard east gutter. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east gutter. arc left open. 8 steps. The rope stays for the hit."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Last Light. Nobody past the east gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":342,"kind":"place","name":"Last Light east gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light east gutter. Matt keeps the rope for the hit. 3 steps, arc on the left lane, open."}
