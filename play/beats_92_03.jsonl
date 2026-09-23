@@ -564,3 +564,6 @@
 {"n":564,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Drydock. Nobody past the east gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":565,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock east gutter. Nia keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
 {"n":566,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east gutter. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":567,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Drydock. Nobody past the east gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":568,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock east gutter. Ivo keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
+{"n":569,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east gutter. arc left open. 7 steps. The hydrant stays for the hit."}
