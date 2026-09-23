@@ -449,3 +449,6 @@
 {"n":449,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west stair. arc left open. 7 steps. The plywood stays for the hit."}
 {"n":450,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Drydock. Nobody past the west stair. We hit in 8 steps. Arc on the left lane, open."}
 {"n":451,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west stair. Bess keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
+{"n":452,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west stair. arc left open. 3 steps. The plywood stays for the hit."}
+{"n":453,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at High line. Nobody past the west stair. We hit in 4 steps. Arc on the left lane, open."}
+{"n":454,"kind":"place","name":"High line west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west stair. Matt keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
