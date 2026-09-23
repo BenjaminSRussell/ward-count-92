@@ -886,3 +886,6 @@
 {"n":886,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west gutter. arc left open. 4 steps. The crate stays for the hit."}
 {"n":887,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Drydock. Nobody past the west gutter. We hit in 5 steps. Arc on the left lane, open."}
 {"n":888,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock west gutter. Ivo keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":889,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west gutter. arc left open. 7 steps. The crate stays for the hit."}
+{"n":890,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Drydock. Nobody past the west gutter. We hit in 8 steps. Arc on the left lane, open."}
+{"n":891,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west gutter. Bess keeps the crate for the hit. 2 steps, arc on the left lane, open."}
