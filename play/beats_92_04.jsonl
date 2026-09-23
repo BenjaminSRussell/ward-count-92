@@ -131,3 +131,6 @@
 {"n":131,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Stockyard fence. Nobody past the east gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":132,"kind":"place","name":"Stockyard fence east gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east gutter. Ivo keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
 {"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east gutter. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Stockyard fence. Nobody past the east gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":135,"kind":"place","name":"Stockyard fence east gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence east gutter. Bess keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
+{"n":136,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east gutter. arc left open. 7 steps. The rebar stays for the hit."}
