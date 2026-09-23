@@ -422,3 +422,6 @@
 {"n":422,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south dock. arc left open. 3 steps. The shutter stays for the hit."}
 {"n":423,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the Lot. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
 {"n":424,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot south dock. Ivo keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":425,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south dock. arc left open. 6 steps. The shutter stays for the hit."}
+{"n":426,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at the Lot. Nobody past the south dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":427,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south dock. Bess keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
