@@ -495,3 +495,6 @@
 {"n":495,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Mast yard. Nobody past the east gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":496,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east gutter. Ivo keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
 {"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east gutter. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":498,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Mast yard. Nobody past the east gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":499,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard east gutter. Bess keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east gutter. arc left open. 8 steps. The hydrant stays for the hit."}
