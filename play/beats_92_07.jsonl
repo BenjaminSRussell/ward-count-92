@@ -236,3 +236,6 @@
 {"n":236,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Clinic roof. Nobody past the north gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":237,"kind":"place","name":"Clinic roof north gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north gutter. Nia keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":238,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north gutter. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":239,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Clinic roof. Nobody past the north gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":240,"kind":"place","name":"Clinic roof north gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof north gutter. Ivo keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":241,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north gutter. arc left open. 4 steps. The radio coil stays for the hit."}
