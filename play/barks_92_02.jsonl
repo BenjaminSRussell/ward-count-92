@@ -269,3 +269,6 @@
 {"n":269,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot west gutter. Nia keeps the rope for the hit. 2 steps, arc on the left lane, open."}
 {"n":270,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west gutter. arc left open. 3 steps. The rope stays for the hit."}
 {"n":271,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at the Lot. Nobody past the west gutter. We hit in 4 steps. Arc on the left lane, open."}
+{"n":272,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the rope for the hit. 5 steps, arc on the left lane, open."}
+{"n":273,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. arc left open. 6 steps. The rope stays for the hit."}
+{"n":274,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at the Lot. Nobody past the west gutter. We hit in 7 steps. Arc on the left lane, open."}
