@@ -977,3 +977,6 @@
 {"n":977,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west stair. arc left open. 3 steps. The lamp stays for the hit."}
 {"n":978,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Ward gate. Nobody past the west stair. We hit in 4 steps. Arc on the left lane, open."}
 {"n":979,"kind":"place","name":"Ward gate west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west stair. Bess keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
+{"n":980,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west stair. arc left open. 6 steps. The lamp stays for the hit."}
+{"n":981,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Kessler alley. Nobody past the west stair. We hit in 7 steps. Arc on the left lane, open."}
+{"n":982,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west stair. Matt keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
