@@ -808,3 +808,6 @@
 {"n":808,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard south dock. Ivo keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":809,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south dock. arc left open. 5 steps. The drum stays for the hit."}
 {"n":810,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mast yard. Nobody past the south dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":811,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard south dock. Bess keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":812,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south dock. arc left open. 8 steps. The drum stays for the hit."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Last Light. Nobody past the south dock. We hit in 2 steps. Arc on the left lane, open."}
