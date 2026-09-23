@@ -845,3 +845,6 @@
 {"n":845,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east gutter. arc left open. 3 steps. The crate stays for the hit."}
 {"n":846,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Last Light. Nobody past the east gutter. We hit in 4 steps. Arc on the left lane, open."}
 {"n":847,"kind":"place","name":"Last Light east gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light east gutter. Bess keeps the crate for the hit. 5 steps, arc on the left lane, open."}
+{"n":848,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east gutter. arc left open. 6 steps. The crate stays for the hit."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at South stair. Nobody past the east gutter. We hit in 7 steps. Arc on the left lane, open."}
+{"n":850,"kind":"place","name":"South stair east gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair east gutter. Matt keeps the crate for the hit. 8 steps, arc on the left lane, open."}
