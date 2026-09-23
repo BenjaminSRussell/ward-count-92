@@ -397,3 +397,6 @@
 {"n":397,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate south dock. Nia keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
 {"n":398,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south dock. arc left open. 7 steps. The shutter stays for the hit."}
 {"n":399,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Ward gate. Nobody past the south dock. We hit in 8 steps. Arc on the left lane, open."}
+{"n":400,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate south dock. Ivo keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
+{"n":401,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south dock. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":402,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Ward gate. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
