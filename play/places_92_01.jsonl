@@ -295,3 +295,6 @@
 {"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west gutter. arc left open. 8 steps. The plywood stays for the hit."}
 {"n":296,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the Underpass. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":297,"kind":"place","name":"the Underpass west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass west gutter. Nia keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west gutter. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":299,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at the Underpass. Nobody past the west gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":300,"kind":"place","name":"the Underpass west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass west gutter. Ivo keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
