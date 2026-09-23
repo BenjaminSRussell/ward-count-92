@@ -393,3 +393,6 @@
 {"n":393,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Clinic roof. Nobody past the north gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":394,"kind":"place","name":"Clinic roof north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north gutter. Matt keeps the rope for the hit. 4 steps, arc on the left lane, open."}
 {"n":395,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north gutter. arc left open. 5 steps. The rope stays for the hit."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Clinic roof. Nobody past the north gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":397,"kind":"place","name":"Clinic roof north gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north gutter. Nia keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":398,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north gutter. arc left open. 8 steps. The rope stays for the hit."}
