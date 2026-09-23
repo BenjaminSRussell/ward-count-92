@@ -627,3 +627,6 @@
 {"n":627,"kind":"place","name":"the Lot east gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east gutter. Bess keeps the awning for the hit. 8 steps, arc on the left lane, open."}
 {"n":628,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east gutter. arc left open. 2 steps. The awning stays for the hit."}
 {"n":629,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Stockyard fence. Nobody past the east gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":630,"kind":"place","name":"Stockyard fence east gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence east gutter. Matt keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":631,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east gutter. arc left open. 5 steps. The awning stays for the hit."}
+{"n":632,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Stockyard fence. Nobody past the east gutter. We hit in 6 steps. Arc on the left lane, open."}
