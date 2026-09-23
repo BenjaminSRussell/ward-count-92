@@ -570,3 +570,6 @@
 {"n":570,"kind":"place","name":"Ward gate west gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west gutter. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
 {"n":571,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west gutter. arc left open. 4 steps. The barrel stays for the hit."}
 {"n":572,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Ward gate. Nobody past the west gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":573,"kind":"place","name":"Ward gate west gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate west gutter. Nia keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
+{"n":574,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west gutter. arc left open. 7 steps. The barrel stays for the hit."}
+{"n":575,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Ward gate. Nobody past the west gutter. We hit in 8 steps. Arc on the left lane, open."}
