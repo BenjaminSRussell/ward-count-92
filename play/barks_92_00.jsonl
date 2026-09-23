@@ -967,3 +967,6 @@
 {"n":967,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south dock. Bess keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
 {"n":968,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south dock. arc left open. 3 steps. The badge door stays for the hit."}
 {"n":969,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Mast yard. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":970,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south dock. Matt keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
+{"n":971,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south dock. arc left open. 6 steps. The badge door stays for the hit."}
+{"n":972,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Mast yard. Nobody past the south dock. We hit in 7 steps. Arc on the left lane, open."}
