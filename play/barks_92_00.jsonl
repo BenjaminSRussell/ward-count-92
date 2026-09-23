@@ -829,3 +829,6 @@
 {"n":829,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair south dock. Nia keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":830,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south dock. arc left open. 5 steps. The drum stays for the hit."}
 {"n":831,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at South stair. Nobody past the south dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":832,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south dock. Ivo keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":833,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. arc left open. 8 steps. The drum stays for the hit."}
+{"n":834,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at South stair. Nobody past the south dock. We hit in 2 steps. Arc on the left lane, open."}
