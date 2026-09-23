@@ -610,3 +610,6 @@
 {"n":610,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court south dock. Matt keeps the awning for the hit. 2 steps, arc on the left lane, open."}
 {"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south dock. arc left open. 3 steps. The awning stays for the hit."}
 {"n":612,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Mall court. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":613,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court south dock. Nia keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":614,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south dock. arc left open. 6 steps. The awning stays for the hit."}
+{"n":615,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Mall court. Nobody past the south dock. We hit in 7 steps. Arc on the left lane, open."}
