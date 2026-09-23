@@ -944,3 +944,6 @@
 {"n":944,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west stair. arc left open. 5 steps. The crate stays for the hit."}
 {"n":945,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Drydock. Nobody past the west stair. We hit in 6 steps. Arc on the left lane, open."}
 {"n":946,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west stair. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west stair. arc left open. 8 steps. The crate stays for the hit."}
+{"n":948,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Drydock. Nobody past the west stair. We hit in 2 steps. Arc on the left lane, open."}
+{"n":949,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock west stair. Nia keeps the crate for the hit. 3 steps, arc on the left lane, open."}
