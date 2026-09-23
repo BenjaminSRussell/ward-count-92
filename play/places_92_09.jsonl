@@ -857,3 +857,6 @@
 {"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west stair. arc left open. 2 steps. The crate stays for the hit."}
 {"n":858,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mall court. Nobody past the west stair. We hit in 3 steps. Arc on the left lane, open."}
 {"n":859,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west stair. Bess keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":860,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west stair. arc left open. 5 steps. The crate stays for the hit."}
+{"n":861,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the Underpass. Nobody past the west stair. We hit in 6 steps. Arc on the left lane, open."}
+{"n":862,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west stair. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}
