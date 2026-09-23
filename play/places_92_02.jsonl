@@ -552,3 +552,6 @@
 {"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west gutter. arc left open. 5 steps. The shutter stays for the hit."}
 {"n":553,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Drydock. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":554,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock west gutter. Matt keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":555,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west gutter. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":556,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Drydock. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":557,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west gutter. Nia keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
