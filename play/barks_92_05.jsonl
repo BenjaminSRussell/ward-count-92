@@ -620,3 +620,6 @@
 {"n":620,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north gutter. Ivo keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
 {"n":621,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north gutter. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":622,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Kessler alley. Nobody past the north gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":623,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north gutter. Bess keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":624,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north gutter. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":625,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the Lot. Nobody past the north gutter. We hit in 5 steps. Arc on the left lane, open."}
