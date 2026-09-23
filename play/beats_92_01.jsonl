@@ -308,3 +308,6 @@
 {"n":308,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Mast yard. Nobody past the west gutter. We hit in 7 steps. Arc on the left lane, open."}
 {"n":309,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard west gutter. Nia keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
 {"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west gutter. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":311,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Mast yard. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard west gutter. Ivo keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
+{"n":313,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west gutter. arc left open. 5 steps. The plywood stays for the hit."}
