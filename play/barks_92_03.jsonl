@@ -736,3 +736,6 @@
 {"n":736,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock east gutter. Ivo keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
 {"n":737,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east gutter. arc left open. 7 steps. The barrel stays for the hit."}
 {"n":738,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Drydock. Nobody past the east gutter. We hit in 8 steps. Arc on the left lane, open."}
+{"n":739,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east gutter. Bess keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
+{"n":740,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east gutter. arc left open. 3 steps. The barrel stays for the hit."}
+{"n":741,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at High line. Nobody past the east gutter. We hit in 4 steps. Arc on the left lane, open."}
