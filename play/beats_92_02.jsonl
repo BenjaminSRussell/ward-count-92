@@ -259,3 +259,6 @@
 {"n":259,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Kessler alley. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":260,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west gutter. Ivo keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west gutter. arc left open. 8 steps. The rope stays for the hit."}
+{"n":262,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Kessler alley. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":263,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west gutter. Bess keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":264,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west gutter. arc left open. 4 steps. The rope stays for the hit."}
