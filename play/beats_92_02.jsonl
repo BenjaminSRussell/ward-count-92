@@ -760,3 +760,6 @@
 {"n":760,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Kessler alley. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":761,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley west gutter. Nia keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":762,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west gutter. arc left open. 5 steps. The drum stays for the hit."}
+{"n":763,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Kessler alley. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":764,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley west gutter. Ivo keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":765,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west gutter. arc left open. 8 steps. The drum stays for the hit."}
