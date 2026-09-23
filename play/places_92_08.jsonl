@@ -18,3 +18,6 @@
 {"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south gutter. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":19,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the Underpass. Nobody past the south gutter. We hit in 5 steps. Arc on the left lane, open."}
 {"n":20,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":21,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south gutter. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":22,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Underpass. Nobody past the south gutter. We hit in 8 steps. Arc on the left lane, open."}
+{"n":23,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south gutter. Bess keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
