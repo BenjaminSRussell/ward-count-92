@@ -511,3 +511,6 @@
 {"n":511,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south gutter. arc left open. 8 steps. The hydrant stays for the hit."}
 {"n":512,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at the Underpass. Nobody past the south gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":513,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass south gutter. Nia keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
+{"n":514,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south gutter. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":515,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at the Underpass. Nobody past the south gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":516,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
