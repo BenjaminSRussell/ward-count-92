@@ -837,3 +837,6 @@
 {"n":837,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north gutter. arc left open. 7 steps. The crate stays for the hit."}
 {"n":838,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Underpass. Nobody past the north gutter. We hit in 8 steps. Arc on the left lane, open."}
 {"n":839,"kind":"place","name":"the Underpass north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass north gutter. Bess keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":840,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north gutter. arc left open. 3 steps. The crate stays for the hit."}
+{"n":841,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Mast yard. Nobody past the north gutter. We hit in 4 steps. Arc on the left lane, open."}
+{"n":842,"kind":"place","name":"Mast yard north gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard north gutter. Matt keeps the crate for the hit. 5 steps, arc on the left lane, open."}
