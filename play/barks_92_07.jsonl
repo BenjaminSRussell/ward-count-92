@@ -882,3 +882,6 @@
 {"n":882,"kind":"place","name":"South stair south gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair south gutter. Matt keeps the crate for the hit. 8 steps, arc on the left lane, open."}
 {"n":883,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south gutter. arc left open. 2 steps. The crate stays for the hit."}
 {"n":884,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at South stair. Nobody past the south gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":885,"kind":"place","name":"South stair south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair south gutter. Nia keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":886,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south gutter. arc left open. 5 steps. The crate stays for the hit."}
+{"n":887,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at South stair. Nobody past the south gutter. We hit in 6 steps. Arc on the left lane, open."}
