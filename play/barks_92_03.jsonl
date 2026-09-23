@@ -190,3 +190,6 @@
 {"n":190,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier west gutter. Matt keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
 {"n":191,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west gutter. arc left open. 7 steps. The radio coil stays for the hit."}
 {"n":192,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the pier. Nobody past the west gutter. We hit in 8 steps. Arc on the left lane, open."}
+{"n":193,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier west gutter. Nia keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
+{"n":194,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west gutter. arc left open. 3 steps. The radio coil stays for the hit."}
+{"n":195,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the pier. Nobody past the west gutter. We hit in 4 steps. Arc on the left lane, open."}
