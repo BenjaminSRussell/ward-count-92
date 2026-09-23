@@ -718,3 +718,6 @@
 {"n":718,"kind":"place","name":"Last Light west stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west stair. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
 {"n":719,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west stair. arc left open. 4 steps. The barrel stays for the hit."}
 {"n":720,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Last Light. Nobody past the west stair. We hit in 5 steps. Arc on the left lane, open."}
+{"n":721,"kind":"place","name":"Last Light west stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Last Light west stair. Nia keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
+{"n":722,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west stair. arc left open. 7 steps. The barrel stays for the hit."}
+{"n":723,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Last Light. Nobody past the west stair. We hit in 8 steps. Arc on the left lane, open."}
