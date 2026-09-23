@@ -632,3 +632,6 @@
 {"n":632,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south dock. arc left open. 3 steps. The awning stays for the hit."}
 {"n":633,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Mast yard. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
 {"n":634,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard south dock. Matt keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":635,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south dock. arc left open. 6 steps. The awning stays for the hit."}
+{"n":636,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Mast yard. Nobody past the south dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":637,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard south dock. Nia keeps the awning for the hit. 8 steps, arc on the left lane, open."}
