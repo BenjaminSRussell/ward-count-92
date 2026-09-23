@@ -226,3 +226,6 @@
 {"n":226,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west gutter. Matt keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":227,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west gutter. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":228,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Drydock. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":229,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock west gutter. Nia keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":230,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west gutter. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":231,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Drydock. Nobody past the west gutter. We hit in 5 steps. Arc on the left lane, open."}
