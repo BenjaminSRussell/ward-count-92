@@ -360,3 +360,6 @@
 {"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west gutter. arc left open. 2 steps. The rope stays for the hit."}
 {"n":361,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Clinic roof. Nobody past the west gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":362,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof west gutter. Matt keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":363,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west gutter. arc left open. 5 steps. The rope stays for the hit."}
+{"n":364,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Clinic roof. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":365,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof west gutter. Nia keeps the rope for the hit. 7 steps, arc on the left lane, open."}
