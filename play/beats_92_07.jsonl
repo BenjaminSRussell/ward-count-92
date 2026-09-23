@@ -683,3 +683,6 @@
 {"n":683,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Underpass. Nobody past the south gutter. We hit in 5 steps. Arc on the left lane, open."}
 {"n":684,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
 {"n":685,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south gutter. arc left open. 7 steps. The barrel stays for the hit."}
+{"n":686,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the Underpass. Nobody past the south gutter. We hit in 8 steps. Arc on the left lane, open."}
+{"n":687,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south gutter. Bess keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
+{"n":688,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south gutter. arc left open. 3 steps. The barrel stays for the hit."}
