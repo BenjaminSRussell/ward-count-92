@@ -108,3 +108,6 @@
 {"n":108,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east gutter. arc left open. 6 steps. The radio coil stays for the hit."}
 {"n":109,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the east gutter. We hit in 7 steps. Arc on the left lane, open."}
 {"n":110,"kind":"place","name":"Kessler alley east gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley east gutter. Matt keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":111,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east gutter. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":112,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the east gutter. We hit in 3 steps. Arc on the left lane, open."}
+{"n":113,"kind":"place","name":"Kessler alley east gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley east gutter. Nia keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
