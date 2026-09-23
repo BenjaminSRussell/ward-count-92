@@ -163,3 +163,6 @@
 {"n":163,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the Underpass. Nobody past the east gutter. We hit in 5 steps. Arc on the left lane, open."}
 {"n":164,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass east gutter. Ivo keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
 {"n":165,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east gutter. arc left open. 7 steps. The radio coil stays for the hit."}
+{"n":166,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at the Underpass. Nobody past the east gutter. We hit in 8 steps. Arc on the left lane, open."}
+{"n":167,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass east gutter. Bess keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
+{"n":168,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east gutter. arc left open. 3 steps. The radio coil stays for the hit."}
