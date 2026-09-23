@@ -183,3 +183,6 @@
 {"n":183,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south gutter. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":184,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at the Underpass. Nobody past the south gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":185,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass south gutter. Nia keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":186,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south gutter. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":187,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Underpass. Nobody past the south gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":188,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
