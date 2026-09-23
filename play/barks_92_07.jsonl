@@ -948,3 +948,6 @@
 {"n":948,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south gutter. Ivo keeps the crate for the hit. 4 steps, arc on the left lane, open."}
 {"n":949,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south gutter. arc left open. 5 steps. The crate stays for the hit."}
 {"n":950,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the south gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":951,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south gutter. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":952,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south gutter. arc left open. 8 steps. The crate stays for the hit."}
+{"n":953,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the south gutter. We hit in 2 steps. Arc on the left lane, open."}
