@@ -448,3 +448,6 @@
 {"n":448,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":449,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence west gutter. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west gutter. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":451,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Stockyard fence. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":452,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence west gutter. Ivo keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
+{"n":453,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west gutter. arc left open. 4 steps. The shutter stays for the hit."}
