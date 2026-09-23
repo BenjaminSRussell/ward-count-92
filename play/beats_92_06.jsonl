@@ -918,3 +918,6 @@
 {"n":918,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Switchyard. Nobody past the north gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":919,"kind":"place","name":"Switchyard north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north gutter. Bess keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":920,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north gutter. arc left open. 5 steps. The drum stays for the hit."}
+{"n":921,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Drydock. Nobody past the north gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":922,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north gutter. Matt keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":923,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north gutter. arc left open. 8 steps. The drum stays for the hit."}
