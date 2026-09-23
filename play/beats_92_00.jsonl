@@ -573,3 +573,6 @@
 {"n":573,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Kessler alley. Nobody past the south dock. We hit in 7 steps. Arc on the left lane, open."}
 {"n":574,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley south dock. Matt keeps the awning for the hit. 8 steps, arc on the left lane, open."}
 {"n":575,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south dock. arc left open. 2 steps. The awning stays for the hit."}
+{"n":576,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Kessler alley. Nobody past the south dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":577,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley south dock. Nia keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south dock. arc left open. 5 steps. The awning stays for the hit."}
