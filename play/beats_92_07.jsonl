@@ -128,3 +128,6 @@
 {"n":128,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the north gutter. We hit in 3 steps. Arc on the left lane, open."}
 {"n":129,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north gutter. Nia keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north gutter. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":131,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Kessler alley. Nobody past the north gutter. We hit in 6 steps. Arc on the left lane, open."}
+{"n":132,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north gutter. Ivo keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north gutter. arc left open. 8 steps. The radio coil stays for the hit."}
