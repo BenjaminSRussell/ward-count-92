@@ -901,3 +901,6 @@
 {"n":901,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west gutter. arc left open. 5 steps. The crate stays for the hit."}
 {"n":902,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the west gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":903,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west gutter. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west gutter. arc left open. 8 steps. The crate stays for the hit."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":906,"kind":"place","name":"Ward gate west gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate west gutter. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
