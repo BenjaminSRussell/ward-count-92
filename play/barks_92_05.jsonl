@@ -287,3 +287,6 @@
 {"n":287,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley north gutter. Bess keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
 {"n":288,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north gutter. arc left open. 4 steps. The plywood stays for the hit."}
 {"n":289,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Lot. Nobody past the north gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":290,"kind":"place","name":"the Lot north gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot north gutter. Matt keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
+{"n":291,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north gutter. arc left open. 7 steps. The plywood stays for the hit."}
+{"n":292,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the Lot. Nobody past the north gutter. We hit in 8 steps. Arc on the left lane, open."}
