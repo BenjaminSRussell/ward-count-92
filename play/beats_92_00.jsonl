@@ -282,3 +282,6 @@
 {"n":282,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mall court. Nobody past the south dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":283,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court south dock. Bess keeps the rope for the hit. 4 steps, arc on the left lane, open."}
 {"n":284,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south dock. arc left open. 5 steps. The rope stays for the hit."}
+{"n":285,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at the Underpass. Nobody past the south dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":286,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south dock. Matt keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":287,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south dock. arc left open. 8 steps. The rope stays for the hit."}
