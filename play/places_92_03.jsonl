@@ -626,3 +626,6 @@
 {"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east gutter. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":627,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the east gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":628,"kind":"place","name":"Stockyard fence east gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east gutter. Ivo keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east gutter. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":630,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the east gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":631,"kind":"place","name":"Stockyard fence east gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence east gutter. Bess keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
