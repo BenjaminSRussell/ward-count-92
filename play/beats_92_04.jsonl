@@ -653,3 +653,6 @@
 {"n":653,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Underpass. Nobody past the east gutter. We hit in 6 steps. Arc on the left lane, open."}
 {"n":654,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east gutter. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
 {"n":655,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east gutter. arc left open. 8 steps. The awning stays for the hit."}
+{"n":656,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the Underpass. Nobody past the east gutter. We hit in 2 steps. Arc on the left lane, open."}
+{"n":657,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east gutter. Nia keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":658,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east gutter. arc left open. 4 steps. The awning stays for the hit."}
