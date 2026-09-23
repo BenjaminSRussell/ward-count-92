@@ -51,3 +51,6 @@
 {"n":51,"kind":"place","name":"Drydock south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south dock. Bess keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
 {"n":52,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south dock. arc left open. 3 steps. The badge door stays for the hit."}
 {"n":53,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at High line. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":54,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line south dock. Matt keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
+{"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south dock. arc left open. 6 steps. The badge door stays for the hit."}
+{"n":56,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at High line. Nobody past the south dock. We hit in 7 steps. Arc on the left lane, open."}
