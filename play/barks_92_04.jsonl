@@ -222,3 +222,6 @@
 {"n":222,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east gutter. Matt keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
 {"n":223,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east gutter. arc left open. 3 steps. The rebar stays for the hit."}
 {"n":224,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Switchyard. Nobody past the east gutter. We hit in 4 steps. Arc on the left lane, open."}
+{"n":225,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east gutter. Nia keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
+{"n":226,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east gutter. arc left open. 6 steps. The rebar stays for the hit."}
+{"n":227,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Switchyard. Nobody past the east gutter. We hit in 7 steps. Arc on the left lane, open."}
