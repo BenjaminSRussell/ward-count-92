@@ -156,3 +156,6 @@
 {"n":156,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass east gutter. Ivo keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
 {"n":157,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east gutter. arc left open. 7 steps. The rebar stays for the hit."}
 {"n":158,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Underpass. Nobody past the east gutter. We hit in 8 steps. Arc on the left lane, open."}
+{"n":159,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass east gutter. Bess keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
+{"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east gutter. arc left open. 3 steps. The rebar stays for the hit."}
+{"n":161,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Mast yard. Nobody past the east gutter. We hit in 4 steps. Arc on the left lane, open."}
