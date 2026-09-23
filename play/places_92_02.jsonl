@@ -597,3 +597,6 @@
 {"n":597,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west gutter. arc left open. 8 steps. The awning stays for the hit."}
 {"n":598,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Kessler alley. Nobody past the west gutter. We hit in 2 steps. Arc on the left lane, open."}
 {"n":599,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west gutter. Bess keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":600,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west gutter. arc left open. 4 steps. The awning stays for the hit."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Lot. Nobody past the west gutter. We hit in 5 steps. Arc on the left lane, open."}
+{"n":602,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west gutter. Matt keeps the awning for the hit. 6 steps, arc on the left lane, open."}
