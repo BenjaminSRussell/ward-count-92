@@ -307,3 +307,6 @@
 {"n":307,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard south dock. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":308,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south dock. arc left open. 8 steps. The rope stays for the hit."}
 {"n":309,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Last Light. Nobody past the south dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":310,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light south dock. Matt keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":311,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south dock. arc left open. 4 steps. The rope stays for the hit."}
+{"n":312,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Last Light. Nobody past the south dock. We hit in 5 steps. Arc on the left lane, open."}
