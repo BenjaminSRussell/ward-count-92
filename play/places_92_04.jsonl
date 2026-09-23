@@ -724,3 +724,6 @@
 {"n":724,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east gutter. arc left open. 7 steps. The awning stays for the hit."}
 {"n":725,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Switchyard. Nobody past the east gutter. We hit in 8 steps. Arc on the left lane, open."}
 {"n":726,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard east gutter. Matt keeps the awning for the hit. 2 steps, arc on the left lane, open."}
+{"n":727,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east gutter. arc left open. 3 steps. The awning stays for the hit."}
+{"n":728,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Switchyard. Nobody past the east gutter. We hit in 4 steps. Arc on the left lane, open."}
+{"n":729,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard east gutter. Nia keeps the awning for the hit. 5 steps, arc on the left lane, open."}
